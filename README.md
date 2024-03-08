@@ -31,4 +31,4 @@ Perangkat ini menggunakan NodeMCU yang menghasilkan output berupa 2 LED yang dap
 
 2. Our Schematic
 
-### Link Video :  
+### Link Video :  https://youtu.be/9ruY9UlUcWY
